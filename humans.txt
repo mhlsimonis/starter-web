@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Taylor jason@git.training
 
 # THANKS
 
-    <name>
+    All my students !
 
 # TECHNOLOGY COLOPHON
 
